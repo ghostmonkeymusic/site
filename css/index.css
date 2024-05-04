@@ -1,0 +1,45 @@
+.tenp {
+    width: 10%;
+    height:10%;
+}
+.twenp {
+    width: 20%;
+    height:20%;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+.welcomebox {
+    background-color: rgba(121, 40, 40, 0.47);
+    border-radius: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(114, 42, 0);
+
+}
+
+.games {
+    background-color: rgb(141, 80, 0);
+    border-radius: 30px;
+    text-align: center;
+    color:aliceblue;
+    font-family: "Arial";
+    
+}
+a {
+    text-decoration: none;
+    color: rgb(248, 112, 0);
+    font-size: 20px;
+}
+
+.footer {
+    text-align: center;
+    background-color: rgb(63, 63, 63);
+    position:fixed;
+    left:0;
+    bottom:0;
+    width: 100%;
+    font-family: 'Courier New', Courier, monospace;
+}
